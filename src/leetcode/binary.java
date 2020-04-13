@@ -12,8 +12,6 @@ public class binary {
                 n++;
             }
         }
-        Math.abs(1);
-
         System.out.println(s);
         System.out.println(n);
     }
