@@ -41,7 +41,8 @@ public class RemoveDuplicatesFromSortedArray_26 {
         Solution s = new Solution();
         int []nums = {0,0,1,1,1,2,2,3,3,4};
         int le = s.removeDuplicates(nums);
-        System.out.println(le);
+        System.out.println();
+        System.out.println("length:"+le);
     }
     static class Solution{
         public int removeDuplicates(int[] nums) {
@@ -53,6 +54,9 @@ public class RemoveDuplicatesFromSortedArray_26 {
                     nums[length] = nums[i];
                     length = length + 1 ;
                 }
+            }
+            for (int i = 0; i < length; i++) {
+                System.out.print(nums[i]+"  ");
             }
             return length;
         }
