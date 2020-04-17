@@ -66,7 +66,6 @@ public class ValidParentheses_20 {
             }
             if (!b.empty())
                 return false;
-
             return true;
         }
     }
