@@ -30,6 +30,7 @@ public class listNode {
         Node(int x) { val = x; }
     }
 
+    //合并俩个列表
     public static Node mergeTwoLists(Node l1, Node l2){
         //1->2->4   //1->3->4
         if (l1 == null || l2 ==null)
