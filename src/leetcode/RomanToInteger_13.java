@@ -58,7 +58,7 @@ public class RomanToInteger_13 {
         public int romanToInt(String s) {
             System.out.println(s);
             int res = 0;
-            Map<String,Integer> symbols = new HashMap<>();
+            Map<String, Integer> symbols = new HashMap<>();
             symbols.put("I",1);
             symbols.put("V",5);
             symbols.put("X",10);
