@@ -7,5 +7,8 @@ public class integer {
         System.out.println(a == (Integer) 1000);  // false
         System.out.println(a.equals(1000)); //true
         System.out.println(new Integer(100).equals(new Long(100))); //false
+        System.out.println();
     }
 }
+
+
