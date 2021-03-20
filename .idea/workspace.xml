@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a31f61-3446-46b1-a694-a43c03b914f1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/reverseBetween_92.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/evalRPN_150.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" afterPath="$PROJECT_DIR$/.idea/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="calculate_224.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/calculate_224.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="calculate_227.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/calculate_227.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="660">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -65,18 +56,18 @@
       <file leaf-file-name="numDistinct_115.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/numDistinct_115.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="540">
               <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverseBetween_92.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reverseBetween_92.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/reverseBetween_92.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+            <state relative-caret-position="478">
+              <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,10 +75,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="evalRPN_150.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/evalRPN_150.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="38" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ReverseInteger_7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseInteger_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
+            <state relative-caret-position="1050">
               <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="29" />
               <folding />
             </state>
@@ -97,8 +98,8 @@
       <file leaf-file-name="RomanToInteger_13.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger_13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1086">
-              <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+            <state relative-caret-position="2250">
+              <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -108,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/listNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -185,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/numDistinct_115.java" />
         <option value="$PROJECT_DIR$/src/leetcode/reverseBetween_.java" />
         <option value="$PROJECT_DIR$/src/leetcode/reverseBetween_92.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/evalRPN_150.java" />
       </list>
     </option>
   </component>
@@ -194,9 +196,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2108" />
-    <option name="y" value="346" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -218,8 +220,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,8 +246,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.reverseBetween_92">
+  <component name="RunManager" selected="Application.evalRPN_150">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -287,14 +289,14 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="calculate_227" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="evalRPN_150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.calculate_227" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.evalRPN_150" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -443,19 +445,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.calculate_227" />
-      <item index="1" class="java.lang.String" itemvalue="Application.isValidSerialization_331" />
-      <item index="2" class="java.lang.String" itemvalue="Application.generateMatrix_59" />
-      <item index="3" class="java.lang.String" itemvalue="Application.numDistinct_115" />
-      <item index="4" class="java.lang.String" itemvalue="Application.reverseBetween_92" />
+      <item index="0" class="java.lang.String" itemvalue="Application.isValidSerialization_331" />
+      <item index="1" class="java.lang.String" itemvalue="Application.generateMatrix_59" />
+      <item index="2" class="java.lang.String" itemvalue="Application.numDistinct_115" />
+      <item index="3" class="java.lang.String" itemvalue="Application.reverseBetween_92" />
+      <item index="4" class="java.lang.String" itemvalue="Application.evalRPN_150" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.reverseBetween_92" />
-        <item index="1" class="java.lang.String" itemvalue="Application.numDistinct_115" />
-        <item index="2" class="java.lang.String" itemvalue="Application.generateMatrix_59" />
-        <item index="3" class="java.lang.String" itemvalue="Application.isValidSerialization_331" />
-        <item index="4" class="java.lang.String" itemvalue="Application.calculate_227" />
+        <item index="0" class="java.lang.String" itemvalue="Application.evalRPN_150" />
+        <item index="1" class="java.lang.String" itemvalue="Application.reverseBetween_92" />
+        <item index="2" class="java.lang.String" itemvalue="Application.numDistinct_115" />
+        <item index="3" class="java.lang.String" itemvalue="Application.generateMatrix_59" />
+        <item index="4" class="java.lang.String" itemvalue="Application.isValidSerialization_331" />
       </list>
     </recent_temporary>
   </component>
@@ -512,15 +514,16 @@
       <workItem from="1615774862903" duration="3856000" />
       <workItem from="1615858368990" duration="3053000" />
       <workItem from="1615945487807" duration="7500000" />
-      <workItem from="1616048697710" duration="4456000" />
+      <workItem from="1616048697710" duration="4547000" />
+      <workItem from="1616252573607" duration="1130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119106000" />
+    <option name="totallyTimeSpent" value="120327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-5" width="2578" height="1408" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -530,14 +533,14 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35347682" sideWeight="0.221246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.25160944" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38679245" sideWeight="0.47478542" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18625827" sideWeight="0.7579872" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14238411" sideWeight="0.6573482" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.74839056" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2995283" sideWeight="0.6523605" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12899362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13090129" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -545,7 +548,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35347682" sideWeight="0.778754" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35259435" sideWeight="0.77253217" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -686,8 +689,14 @@
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/evalRPN_150.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="71" />
+      <option name="time" value="72" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -715,13 +724,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/TwoSum_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="35" lean-forward="false" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseInteger_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -944,7 +946,7 @@
         <state relative-caret-position="0">
           <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -965,7 +967,7 @@
         <state relative-caret-position="450">
           <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -974,14 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/calculate_227.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1019,17 +1013,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/reverseBetween_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/reverseBetween_.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode/numDistinct_115.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="540">
           <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
@@ -1038,14 +1025,14 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/listNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseInteger_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
+        <state relative-caret-position="1050">
           <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="29" />
           <folding />
         </state>
@@ -1053,19 +1040,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger_13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1086">
-          <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        <state relative-caret-position="2250">
+          <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/reverseBetween_92.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        <state relative-caret-position="478">
+          <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/calculate_227.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/evalRPN_150.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="38" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
