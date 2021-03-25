@@ -43,6 +43,36 @@ public class deleteDuplicates_82 {
                 return null;
             return res;
         }
+
+        // 递归方法
+
+        public ListNode deleteDuplicates1(ListNode head){
+            if (head == null || head.next == null)
+                return head;
+
+            ListNode next = head.next;
+
+            //如果是这种情况
+            // 1 --> 1 --> 1 --> 2 --> 3
+            //head next
+            //1.移动next直到head.val与next不相等
+            //2. 此时的head是重复值去掉
+            //---else----
+            // 1 --> 2 --> 3
+            // head next
+            // 3.如果没有出现1情况，递归返回的节点作为head的子节点
+            if (head.val == next.val){
+                // 1
+                while (head.val == next.val && next !=null){
+                    next = next.next;
+                }
+                // 2
+                head = deleteDuplicates(next);
+            }else {
+                head.next = deleteDuplicates(next);
+            }
+            return head;
+        }
     }
 
     public static void main(String[]args){
