@@ -63,7 +63,7 @@ public class deleteDuplicates_82 {
             // 3.如果没有出现1情况，递归返回的节点作为head的子节点
             if (head.val == next.val){
                 // 1
-                while (head.val == next.val && next !=null){
+                while (next !=null && head.val == next.val){
                     next = next.next;
                 }
                 // 2
