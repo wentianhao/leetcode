@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.dp;
 
 public class longestCommonSubsequence_1143 {
     /**
