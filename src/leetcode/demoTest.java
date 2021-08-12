@@ -3,7 +3,7 @@ package leetcode;
 import javax.jws.soap.SOAPBinding;
 import java.util.Scanner;
 
-public class test {
+public class demoTest {
 
     public static class Solution {
         public int demo(String[][] strs) {
