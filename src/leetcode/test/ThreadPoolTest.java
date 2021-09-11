@@ -1,8 +1,6 @@
 package leetcode.test;
 
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 public class ThreadPoolTest {
     // 核心线程数 ： 最下可运行的线程数量
@@ -39,4 +37,19 @@ public class ThreadPoolTest {
         }
         System.out.println("Finished all threads");
     }
+
+    /**
+     * 打印线程池状态
+     */
+//    public static void printThreadPoolStatus(ThreadPoolExecutor threadPool) {
+//        ScheduledExecutorService scheduledExecutorService = new ScheduledThreadPoolExecutor(1, createThreadFactory("print-images/thread-pool-status", false));
+//        scheduledExecutorService.scheduleAtFixedRate(() -> {
+//            log.info("=========================");
+//            log.info("ThreadPool Size: [{}]", threadPool.getPoolSize());
+//            log.info("Active Threads: {}", threadPool.getActiveCount());
+//            log.info("Number of Tasks : {}", threadPool.getCompletedTaskCount());
+//            log.info("Number of Tasks in Queue: {}", threadPool.getQueue().size());
+//            log.info("=========================");
+//        }, 0, 1, TimeUnit.SECONDS);
+//    }
 }

@@ -2,6 +2,7 @@ package leetcode.test;
 
 public class Singleton {
     // 单例模式的双重校验
+    // 防止指令重排
     private volatile static Singleton uniqueInstance;
 
     private Singleton (){
